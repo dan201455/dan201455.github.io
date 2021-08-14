@@ -1,6 +1,8 @@
 
 
-/*Dan*/
+/* Dan */
+}
+
 .message-2qnXI6[data-user-id="394804652064899072"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
 .message-2qnXI6[data-author-id="394804652064899072"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
 .message-2qnXI6[vz-user-id="394804652064899072"] .username-1A8OIy,
@@ -42,8 +44,9 @@
 
   background-image: linear-gradient(90deg, #def3fd 0%, #fdfd96 50%, #defde0 100%);
 
-/*LEVI*/
+/* LEVI */
 }
+
 .message-2qnXI6[data-user-id="789556873200271373"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
 .message-2qnXI6[data-author-id="789556873200271373"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
 .message-2qnXI6[vz-user-id="789556873200271373"] .username-1A8OIy,
