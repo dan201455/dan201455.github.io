@@ -1,4 +1,8 @@
-
+/* Name:D's friends colours
+Version: 0.1.1
+Contact: D |049| CatBoy#0049
+Invite:https://discord.gg/cDqrgYajAr 
+*/
 
 /* Dan */
 }
@@ -17,6 +21,7 @@
   background-size: 300%;
   animation: shine 10s linear infinite;
   -webkit-background-clip: text;
+  
   background-image: radial-gradient(circle, #00cbff 0%, #4cc472 12%, #b7ab63 30%, #d6a512 51%, #ce2020 70%, #840707 100%);
 
 
