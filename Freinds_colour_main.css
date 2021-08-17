@@ -1,5 +1,5 @@
 /* Name:D's friends colours
-Version: 0.3.0
+Version: 0.3.1
 Contact: D |049| CatBoy#0049
 Invite:https://discord.gg/cDqrgYajAr 
 */
@@ -113,7 +113,7 @@ Invite:https://discord.gg/cDqrgYajAr
   animation: shine-reversed 10s linear infinite;
   -webkit-background-clip: text;
 
-  background: linear-gradient(135deg, #000000 0%, #f8c2ff 20%, #00fec8 40%, #000000 60%, #00fec8 80%, #00fec8 100%);
+  background-image: linear-gradient(135deg, #000000 0%, #f8c2ff 20%, #00fec8 40%, #000000 60%, #00fec8 80%, #00fec8 100%);
 
 }
 @keyframes shine {
