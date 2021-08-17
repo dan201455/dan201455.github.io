@@ -113,11 +113,7 @@ Invite:https://discord.gg/cDqrgYajAr
   animation: shine-reversed 10s linear infinite;
   -webkit-background-clip: text;
 
-  background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%);
-
-
-
-
+  background: linear-gradient(135deg, #000000 0%, #f8c2ff 20%, #00fec8 40%, #000000 60%, #00fec8 80%, #00fec8 100%);
 
 }
 @keyframes shine {
