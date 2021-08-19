@@ -161,9 +161,7 @@ Invite:https://discord.gg/cDqrgYajAr
   animation: shine-reversed 10s linear infinite;
   -webkit-background-clip: text;
 
-  
-  background: rgb(201,201,201);
-background: linear-gradient(90deg, #c9c9c9 0%, #48484d 40%, #000000 100%);
+background-image: linear-gradient(90deg, #c9c9c9 0%, #48484d 40%, #000000 100%);
 
   
 }
