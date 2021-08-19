@@ -163,6 +163,56 @@ Invite:https://discord.gg/cDqrgYajAr
 
 background-image: linear-gradient(90deg, #c9c9c9 0%, #48484d 40%, #000000 100%);
 
+
+
+  /* Gold */
+  
+  }
+
+.message-2qnXI6[data-user-id="765919439202811938"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id="765919439202811938"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id="765919439202811938"] .username-1A8OIy,
+.channel-2QD9_O[data-user-id="765919439202811938"] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id="765919439202811938"] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id="765919439202811938"] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id="765919439202811938"] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id="765919439202811938"] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id="765919439202811938"] .username-2b1r56,
+.root-3QyAh1[data-user-id="765919439202811938"] .username-2b1r56 {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  animation: shine-reversed 10s linear infinite;
+  -webkit-background-clip: text;
+
+background-image: linear-gradient(90deg, #ff84f0 0%, #fdff00 50%, #649bff 100%);
+
+
+
+  /* Ducky the slut */
+  
+  }
+
+.message-2qnXI6[data-user-id="445685707776851978"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id="445685707776851978"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id="445685707776851978"] .username-1A8OIy,
+.channel-2QD9_O[data-user-id="445685707776851978"] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id="445685707776851978"] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id="445685707776851978"] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id="445685707776851978"] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id="445685707776851978"] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id="445685707776851978"] .username-2b1r56,
+.root-3QyAh1[data-user-id="445685707776851978"] .username-2b1r56 {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  animation: shine-reversed 10s linear infinite;
+  -webkit-background-clip: text;
+
+background: linear-gradient(90deg, #fff520 0%, #ffdd98 35%, #ffbfbf 100%);
+
+  
+
   
 }
 @keyframes shine {
