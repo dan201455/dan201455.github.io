@@ -1,5 +1,5 @@
 /* Name:D's friends colours
-Version: 0.9.3
+Version: 0.9.4
 Contact: D |049| CatBoy#0049
 Invite:https://discord.gg/cDqrgYajAr 
 */
@@ -212,6 +212,7 @@ background-image: linear-gradient(90deg, #ff84f0 0%, #fdff00 50%, #649bff 100%);
 background-image: linear-gradient(90deg, #fff520 0%, #ffdd98 50%, #ffbfbf 100%);
 
 
+ /* To make it move */
   
 }
 @keyframes shine {
@@ -227,9 +228,15 @@ background-image: linear-gradient(90deg, #fff520 0%, #ffdd98 50%, #ffbfbf 100%);
 }
 
 
+/* rainbow background for banner if it is a solid colour */
+
 
 .banner-2QYc2d {
   background: url('https://i.imgur.com/D2fsL3a.png');
+  
+  
+  /* Light screen lock */
+  
 }
 .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::before, 
 .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::after, 
@@ -250,4 +257,12 @@ background-image: linear-gradient(90deg, #fff520 0%, #ffdd98 50%, #ffbfbf 100%);
     visibility: visible !important;
     font-size: 17px;
 }
+
+
+
+/* Moving and rainbow ping button */ 
+
+.numberBadge-2s8kKX { background-image: linear-gradient(to left, rgb(51,255,0), rgb(255,230,0), rgb(255,0,0), rgb(234,0,255), rgb(0,140,255), rgb(51,255,0)); background-size: 500% 100%; color: var(--background-tertiary); animation: animatedPing 1.3s infinite ease-in-out, gradient-border 5s linear infinite }@keyframes gradient-border { from { background-position: 0 0 } to { background-position: 130% 0 } }@keyframes animatedPing { 0% { transform: rotate(-12deg) } 50% { transform: rotate(12deg) scale(1.2) } 100% { transform: rotate(-10deg) } }
+
+
 
