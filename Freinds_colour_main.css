@@ -262,7 +262,7 @@ background-image: linear-gradient(90deg, #fff520 0%, #ffdd98 50%, #ffbfbf 100%);
 
 /* Moving and rainbow ping button */ 
 
-.numberBadge-2s8kKX { background-image: linear-gradient(to left, rgb(51,255,0), rgb(255,230,0), rgb(255,0,0), rgb(234,0,255), rgb(0,140,255), rgb(51,255,0)); background-size: 500% 100%; color: var(--background-tertiary); animation: animatedPing 1.3s infinite ease-in-out, gradient-border 5s linear infinite }@keyframes gradient-border { from { background-position: 0 0 } to { background-position: 130% 0 } }@keyframes animatedPing { 0% { transform: rotate(-12deg) } 50% { transform: rotate(12deg) scale(1.2) } 100% { transform: rotate(-10deg) } }
+.numberBadge-2s8kKX { background-image: linear-gradient(to left, rgb(51,255,0), rgb(255,230,0), rgb(255,0,0), rgb(234,0,255), rgb(0,140,255), rgb(51,255,0)); background-size: 500% 100%; color: rgb(0,0,0); animation: animatedPing 1.3s infinite ease-in-out, gradient-border 5s linear infinite }@keyframes gradient-border { from { background-position: 0 0 } to { background-position: 130% 0 } }@keyframes animatedPing { 0% { transform: rotate(-12deg) } 50% { transform: rotate(12deg) scale(1.2) } 100% { transform: rotate(-10deg) } }
 
 
 /* better game panel */
