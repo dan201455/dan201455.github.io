@@ -6,35 +6,6 @@ Invite:https://discord.gg/cDqrgYajAr
 
 
 
-.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::before, 
-.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::after, 
-.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type * {
-    visibility: hidden !important;
-}
-.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type {background-color: #23283d !important}
-.theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(3) {
-    position: fixed;
-    left: 10px;
-    bottom: 10px;
-    width: 30px;
-    height: 30px;
-}
-.theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(3)::before {
-    position: absolute;
-    content: "🔒";
-    visibility: visible !important;
-    font-size: 17px;
-}
-
-.marginTop40-i-78cZ > div[role*="radiogroup"] > .item-26Dhrx:nth-child(2) > .radioBar-bMNUI- > .info-3LOr12 > .title-3BE6m5::before {
-    content: "🔒 Lock Discord";
-    visibility: visible;
-}
-
-.marginTop40-i-78cZ > div[role*="radiogroup"] > .item-26Dhrx:nth-child(2) > .radioBar-bMNUI- > .info-3LOr12 > .title-3BE6m5 {
-    visibility: hidden;
-}
-
 
 /* Dan */
 
