@@ -278,6 +278,23 @@ background-image: linear-gradient(96deg, #f2709c 0%, #ff9472 100%);
     background-position: center;
 }
 
+/* update .theme.css notifcation */
+
+#app-mount .app-2rEoOp::before {
+    content: "Your version of {Theme Name} is outdated. Please download the newest version from: https://betterdiscord.app/theme/{Theme Name}";
+    display: var(--version2_0, block);
+    background-color: #4a90e2;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: center;
+    z-index: 101;
+}
+
+
+
+
 
 /* TO DO LIST
 1. Fix rainbow background - Cant be fixed for full profile I will not continue this.
