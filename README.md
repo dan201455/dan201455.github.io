@@ -1,7 +1,7 @@
 Hi welcome. 
 
 I am Dan. Online I am mostly known as D.
-I make simple code for my friends and this is one of them. It is for discord that makes the name changes colour and some also nice stuff for their discord. I am not the creator of any of this. What I do is take snipits of over people "free to use" work and change it so that it does what I need it to.
+I make simple code for my friends and this is one of them. It is for discord that makes the name changes colour and some also nice stuff for their discord. I am not the creator of any of this. What I do is take snipits of other peoples "free to use" work and change it so that it does what I need it to.
 
 the version name of the file goes like this.
 
