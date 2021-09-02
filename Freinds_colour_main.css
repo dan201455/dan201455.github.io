@@ -264,7 +264,40 @@ background-image: linear-gradient(96deg, #f2709c 0%, #ff9472 100%);
 
 /* Moving and rainbow ping button */ 
 
-.numberBadge-2s8kKX { background-image: linear-gradient(to left, rgb(51,255,0), rgb(255,230,0), rgb(255,0,0), rgb(234,0,255), rgb(0,140,255), rgb(51,255,0)); background-size: 500% 100%; color: rgb(0,0,0); animation: animatedPing 1.3s infinite ease-in-out, gradient-border 5s linear infinite }@keyframes gradient-border { from { background-position: 0 0 } to { background-position: 130% 0 } }@keyframes animatedPing { 0% { transform: rotate(-12deg) } 50% { transform: rotate(12deg) scale(1.2) } 100% { transform: rotate(-10deg) } }
+.numberBadge-2s8kKX { background-image: linear-gradient(to left, rgb(51,255,0), rgb(255,230,0), rgb(255,0,0), rgb(234,0,255), rgb(0,140,255), rgb(51,255,0)); background-size: 500% 100%; color: rgb(0,0,0); animation: animatedPing 1.3s infinite ease-in-out, gradient-border 5s linear infinite }@keyframes gradient-border { from { background-position: 0 0 } to { background-position: 130% 0 } }@keyframes animatedPing { 0% { transform: rotate(-12deg) } 50% { transform: rotate(12deg) scale(1.2) } 100% { transform: rotate(-10deg) } };
+
+
+
+/* the light mode lock */
+
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::before, 
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::after, 
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type * {
+    visibility: hidden !important;
+}
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type {background-color: #23283d !important}
+.theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(3) {
+    position: fixed;
+    left: 10px;
+    bottom: 10px;
+    width: 30px;
+    height: 30px;
+}
+.theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(3)::before {
+    position: absolute;
+    content: "🔒";
+    visibility: visible !important;
+    font-size: 17px;
+}
+
+.marginTop40-i-78cZ > div[role*="radiogroup"] > .item-26Dhrx:nth-child(2) > .radioBar-bMNUI- > .info-3LOr12 > .title-3BE6m5::before {
+    content: "🔒 Lock Discord";
+    visibility: visible;
+}
+
+.marginTop40-i-78cZ > div[role*="radiogroup"] > .item-26Dhrx:nth-child(2) > .radioBar-bMNUI- > .info-3LOr12 > .title-3BE6m5 {
+    visibility: hidden;
+}
 
 
 /* better game panel */
