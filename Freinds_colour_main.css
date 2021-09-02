@@ -278,7 +278,19 @@ background-image: linear-gradient(96deg, #f2709c 0%, #ff9472 100%);
     background-position: center;
 } */
 
+/* update .theme.css notifcation */
 
+#app-mount .app-2rEoOp::before {
+    content: "Your version of Friends custom colour is outdated. Please download the newest version from: https://github.com/dan201455/dan201455.github.io";
+    display: var(--version2_0, block);
+    background-color: #4a90e2;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: center;
+    z-index: 101;
+}
 
 
 
