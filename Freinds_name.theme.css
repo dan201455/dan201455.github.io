@@ -43,4 +43,8 @@
     visibility: hidden;
 }
  
+/* for updates */
 
+:root {
+    --version1_0: none;
+}
