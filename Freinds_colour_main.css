@@ -259,8 +259,7 @@ background-image: linear-gradient(96deg, #f2709c 0%, #ff9472 100%);
 /* rainbow background for banner if it is a solid colour - Removed Forever */
   
   /* Light screen lock */
-  
-}
+
 .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::before, 
 .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::after, 
 .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type * {
@@ -280,7 +279,15 @@ background-image: linear-gradient(96deg, #f2709c 0%, #ff9472 100%);
     visibility: visible !important;
     font-size: 17px;
 }
+  
+.marginTop40-i-78cZ > div[role*="radiogroup"] > .item-26Dhrx:nth-child(2) > .radioBar-bMNUI- > .info-3LOr12 > .title-3BE6m5::before {
+    content: "🔒 Lock Discord";
+    visibility: visible;
+}
 
+.marginTop40-i-78cZ > div[role*="radiogroup"] > .item-26Dhrx:nth-child(2) > .radioBar-bMNUI- > .info-3LOr12 > .title-3BE6m5 {
+    visibility: hidden;
+}
 
 
 /* Moving and rainbow ping button */ 
