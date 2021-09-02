@@ -1,8 +1,42 @@
 /* Name:D's friends colours
-Version: 1.0.3
+Version: 1.0.5
 Contact: D |049| CatBoy#0049
 Invite:https://discord.gg/cDqrgYajAr 
 */
+
+
+
+/* Lock light theme */
+
+
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::before, 
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::after, 
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type * {
+    visibility: hidden !important;
+}
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type {background-color: #23283d !important}
+.theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(3) {
+    position: fixed;
+    left: 10px;
+    bottom: 10px;
+    width: 30px;
+    height: 30px;
+}
+.theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(3)::before {
+    position: absolute;
+    content: "🔒";
+    visibility: visible !important;
+    font-size: 17px;
+}
+  
+.marginTop40-i-78cZ > div[role*="radiogroup"] > .item-26Dhrx:nth-child(2) > .radioBar-bMNUI- > .info-3LOr12 > .title-3BE6m5::before {
+    content: "🔒 Lock Discord";
+    visibility: visible;
+}
+
+.marginTop40-i-78cZ > div[role*="radiogroup"] > .item-26Dhrx:nth-child(2) > .radioBar-bMNUI- > .info-3LOr12 > .title-3BE6m5 {
+    visibility: hidden;
+}
 
 
 /* Dan */
@@ -258,36 +292,6 @@ background-image: linear-gradient(96deg, #f2709c 0%, #ff9472 100%);
 
 /* rainbow background for banner if it is a solid colour - Removed Forever */
   
-  /* Light screen lock */
-
-.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::before, 
-.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::after, 
-.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type * {
-    visibility: hidden !important;
-}
-.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type {background-color: #23283d !important}
-.theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(3) {
-    position: fixed;
-    left: 10px;
-    bottom: 10px;
-    width: 30px;
-    height: 30px;
-}
-.theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(3)::before {
-    position: absolute;
-    content: "🔒";
-    visibility: visible !important;
-    font-size: 17px;
-}
-  
-.marginTop40-i-78cZ > div[role*="radiogroup"] > .item-26Dhrx:nth-child(2) > .radioBar-bMNUI- > .info-3LOr12 > .title-3BE6m5::before {
-    content: "🔒 Lock Discord";
-    visibility: visible;
-}
-
-.marginTop40-i-78cZ > div[role*="radiogroup"] > .item-26Dhrx:nth-child(2) > .radioBar-bMNUI- > .info-3LOr12 > .title-3BE6m5 {
-    visibility: hidden;
-}
 
 
 /* Moving and rainbow ping button */ 
