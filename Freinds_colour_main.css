@@ -288,7 +288,7 @@ transform: translatex(-3px);
   transform: scale(1.01);
 }
 
-/* see edit time */ 
+/* see edit time 
 
 .cozyMessage-3V1Y8y:not(.systemMessage-1I9LCe) .markup-2BOw-j .timestampInline-yHQ6fX>[aria-label]::after{
   content:"(edited " attr(aria-label) ")";
@@ -299,7 +299,7 @@ transform: translatex(-3px);
 }
 .cozyMessage-3V1Y8y:not(.systemMessage-1I9LCe) .markup-2BOw-j .timestampInline-yHQ6fX .edited-3sfAzf{
   display: none;
-}
+} */ 
 
 /* TO DO LIST
 1. Fix rainbow background - Cant be fixed for full profile I will not continue this.
