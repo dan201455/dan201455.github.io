@@ -214,8 +214,7 @@ Invite:https://discord.gg/cDqrgYajAr
   background-size: 300%;
   animation: shine-reversed 10s linear infinite;
   -webkit-background-clip: text;
-  background-image: linear-gradient( 122.3deg, #6f4785 14.6%, #e881a6 29.6%, #dedb7 42.1%, rgba(244,166,215,1) 56.7%, #9adbe8 68.7%, #eee29f 84.8% );
-  
+  background-image: linear-gradient(122.3deg, #6f4785 14.6%, #e881a6 29.6%, #dedb7 42.1%, #f4a6d7 56.7%, #9adbe8 68.7%, #eee29f 84.8%);
   }
 
 
@@ -286,7 +285,7 @@ transform: translatex(-3px);
   transform: scale(1.01);
 }
 
-/* see edit time */
+/* see edit time 
 .cozyMessage-3V1Y8y:not(.systemMessage-1I9LCe) .markup-2BOw-j .timestampInline-yHQ6fX>[aria-label]::after{
   content:"(edited " attr(aria-label) ")";
   text-transform: lowercase;
@@ -296,7 +295,7 @@ transform: translatex(-3px);
 }
 .cozyMessage-3V1Y8y:not(.systemMessage-1I9LCe) .markup-2BOw-j .timestampInline-yHQ6fX .edited-3sfAzf{
   display: none;
-} 
+} */
 
 /* TO DO LIST
 1. Fix rainbow background - Cant be fixed for full profile I will not continue this.
