@@ -1,5 +1,5 @@
 /* Name:D's friends colours
-Version: 1.1.2
+Version: 1.2.1
 Contact: D |049| CatBoy#0049
 Invite:https://discord.gg/cDqrgYajAr 
 */
@@ -244,7 +244,7 @@ background-image: linear-gradient(96deg, #7298da 0%, #40ffff 100%);
   animation: shine-reversed 10s linear infinite;
   -webkit-background-clip: text;
 
-background: radial-gradient(circle, #E201FF 1%, #7301FF 16%, #17013C 33%, #6E01D2 47%, #7701FF 70%,#38017D 86%);
+background-image: radial-gradient(circle, #E201FF 1%, #7301FF 16%, #17013C 33%, #6E01D2 47%, #7701FF 70%,#38017D 86%);
 
   
  /* To make it move */
