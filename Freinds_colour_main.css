@@ -224,7 +224,29 @@ background-image: linear-gradient( 69.7deg,  #d85152 40%, #9a1b45 100.1% );
 background-image: linear-gradient(96deg, #7298da 0%, #40ffff 100%);
 
 
+  
+    /* Jakes */
+  }
+.message-2qnXI6[data-user-id="541339664796352553"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id="541339664796352553"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id="541339664796352553"] .username-1A8OIy,
+.channel-2QD9_O[data-user-id="541339664796352553"] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id="541339664796352553"] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id="541339664796352553"] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id="541339664796352553"] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id="541339664796352553"] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id="541339664796352553"] .username-2b1r56,
+.root-3QyAh1[data-user-id="541339664796352553
+"] .username-2b1r56 {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  animation: shine-reversed 10s linear infinite;
+  -webkit-background-clip: text;
 
+background: radial-gradient(circle, #E201FF 1%, #7301FF 16%, #17013C 33%, #6E01D2 47%, #7701FF 70%,#38017D 86%);
+
+  
  /* To make it move */
   
 }
@@ -258,6 +280,27 @@ transform: translatex(-3px);
   transition: all 0s;
   transform: scale(1.01);
 }
+
+/*add scroll fade to DM's list
+.privateChannels-1nO12o::before {content: '';position: absolute;top: 0;width: 100%;height: 150px;background: linear-gradient(var(--background-secondary), rgba(255, 255, 255, 0.001));pointer-events:none}
+.privateChannels-1nO12o::after {content: '';position: absolute;bottom: 0;width: 100%;height: 150px;background: linear-gradient(rgba(255, 255, 255, 0.001), var(--background-secondary));pointer-events:none}
+
+/* Slide in messages
+all messages will smoothly slide in 
+@keyframes slide-up {
+    0% {
+        opacity: 0;
+        transform: translateX(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+.message-2qnXI6 {
+  animation: slide-up 0.4s ease;
+}
+
 /* see edit time 
 .cozyMessage-3V1Y8y:not(.systemMessage-1I9LCe) .markup-2BOw-j .timestampInline-yHQ6fX>[aria-label]::after{
   content:"(edited " attr(aria-label) ")";
