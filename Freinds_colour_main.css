@@ -166,45 +166,48 @@ Invite:https://discord.gg/cDqrgYajAr
   -webkit-background-clip: text;
   background-image: linear-gradient(90deg, #020024 0%, #8a25cb 33%, #00d4ff 100%);
 }
+/* Jake(British one) */
+.message-2CShn3[data-user-id="541339664796352553"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+.message-2CShn3[data-author-id="541339664796352553"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+.message-2CShn3[vz-user-id="541339664796352553"] .username-h_Y3Us,
+.channel-1Shao0[data-user-id="541339664796352553"] .overflow-1wOqNV,
+.channel-1Shao0[vz-user-id="541339664796352553"] .overflow-1wOqNV,
+.member-2gU6Ar[data-user-id="541339664796352553"] .roleColor-nA7BqX,
+.member-2gU6Ar[vz-user-id="541339664796352553"] .roleColor-nA7BqX,
+.userPopout-2j1gM4[data-user-id="541339664796352553"] .username-3JLfHz,
+.userPopout-2j1gM4[vz-user-id="541339664796352553"] .username-3JLfHz,
+.root-8LYsGj[data-user-id="541339664796352553"] .username-3JLfHz {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-animation: shine 10s linear infinite;
+          animation: shine 10s linear infinite;
+  -webkit-background-clip: text;
+  background-image: radial-gradient(circle, #E201FF 1%, #7301FF 16%, #17013C 33%, #6E01D2 47%, #7701FF 70%,#38017D 86%);
+}
+
+/* Bag */
+.message-2CShn3[data-user-id="751074919605075970"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+.message-2CShn3[data-author-id="751074919605075970"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+.message-2CShn3[vz-user-id="751074919605075970"] .username-h_Y3Us,
+.channel-1Shao0[data-user-id="751074919605075970"] .overflow-1wOqNV,
+.channel-1Shao0[vz-user-id="751074919605075970"] .overflow-1wOqNV,
+.member-2gU6Ar[data-user-id="751074919605075970"] .roleColor-nA7BqX,
+.member-2gU6Ar[vz-user-id="751074919605075970"] .roleColor-nA7BqX,
+.userPopout-2j1gM4[data-user-id="751074919605075970"] .username-3JLfHz,
+.userPopout-2j1gM4[vz-user-id="751074919605075970"] .username-3JLfHz,
+.root-8LYsGj[data-user-id="751074919605075970"] .username-3JLfHz {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-animation: shine 10s linear infinite;
+          animation: shine 10s linear infinite;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(90deg, #0000 100%);
+}
+
+/* rest saved for later */
 /*
-.message-2CShn3[data-user-id="148883925270396929"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
-.message-2CShn3[data-author-id="148883925270396929"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
-.message-2CShn3[vz-user-id="148883925270396929"] .username-h_Y3Us,
-.channel-1Shao0[data-user-id="148883925270396929"] .overflow-1wOqNV,
-.channel-1Shao0[vz-user-id="148883925270396929"] .overflow-1wOqNV,
-.member-2gU6Ar[data-user-id="148883925270396929"] .roleColor-nA7BqX,
-.member-2gU6Ar[vz-user-id="148883925270396929"] .roleColor-nA7BqX,
-.userPopout-2j1gM4[data-user-id="148883925270396929"] .username-3JLfHz,
-.userPopout-2j1gM4[vz-user-id="148883925270396929"] .username-3JLfHz,
-.root-8LYsGj[data-user-id="148883925270396929"] .username-3JLfHz {
-  color: transparent !important;
-  font-weight: bold;
-  background-size: 300%;
-  -webkit-animation: shine 10s linear infinite;
-          animation: shine 10s linear infinite;
-  -webkit-background-clip: text;
-  background-image: linear-gradient(90deg, black 0%, blue 25%, black 50%, #7b00ff 75%, black 100%);
-}
-
-.message-2CShn3[data-user-id="394804652064899072"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
-.message-2CShn3[data-author-id="394804652064899072"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
-.message-2CShn3[vz-user-id="394804652064899072"] .username-h_Y3Us,
-.channel-1Shao0[data-user-id="394804652064899072"] .overflow-1wOqNV,
-.channel-1Shao0[vz-user-id="394804652064899072"] .overflow-1wOqNV,
-.member-2gU6Ar[data-user-id="394804652064899072"] .roleColor-nA7BqX,
-.member-2gU6Ar[vz-user-id="394804652064899072"] .roleColor-nA7BqX,
-.userPopout-2j1gM4[data-user-id="394804652064899072"] .username-3JLfHz,
-.userPopout-2j1gM4[vz-user-id="394804652064899072"] .username-3JLfHz,
-.root-8LYsGj[data-user-id="394804652064899072"] .username-3JLfHz {
-  color: transparent !important;
-  font-weight: bold;
-  background-size: 300%;
-  -webkit-animation: shine 10s linear infinite;
-          animation: shine 10s linear infinite;
-  -webkit-background-clip: text;
-  background-image: radial-gradient(circle, #00cbff 0%, #4cc472 12%, #b7ab63 30%, #d6a512 51%, #ce2020 70%, #840707 100%);
-}
-
 .message-2CShn3[data-user-id="233787027517210624"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
 .message-2CShn3[data-author-id="233787027517210624"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
 .message-2CShn3[vz-user-id="233787027517210624"] .username-h_Y3Us,
