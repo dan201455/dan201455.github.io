@@ -1,5 +1,5 @@
 /* Name:D's friends colours
-Version: 1.1.2
+Version: 1.0.3
 Contact: D |049| CatBoy#0049
 Invite:https://discord.gg/cDqrgYajAr 
 */
@@ -61,25 +61,7 @@ Invite:https://discord.gg/cDqrgYajAr
   -webkit-background-clip: text;
   background-image: radial-gradient(circle, #f2bd51 0%, #eec550 0%, #f1b455 22%, #ed5a22 80%, #cf241c 100%, #8c0601 100%);
 }
-/*Nycto*/
-.message-2CShn3[data-user-id="801074489500762152"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
-.message-2CShn3[data-author-id="801074489500762152"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
-.message-2CShn3[vz-user-id="801074489500762152"] .username-h_Y3Us,
-.channel-1Shao0[data-user-id="801074489500762152"] .overflow-1wOqNV,
-.channel-1Shao0[vz-user-id="801074489500762152"] .overflow-1wOqNV,
-.member-2gU6Ar[data-user-id="801074489500762152"] .roleColor-nA7BqX,
-.member-2gU6Ar[vz-user-id="801074489500762152"] .roleColor-nA7BqX,
-.userPopout-2j1gM4[data-user-id="801074489500762152"] .username-3JLfHz,
-.userPopout-2j1gM4[vz-user-id="801074489500762152"] .username-3JLfHz,
-.root-8LYsGj[data-user-id="801074489500762152"] .username-3JLfHz {
-  color: transparent !important;
-  font-weight: bold;
-  background-size: 300%;
-  -webkit-animation: shine 10s linear infinite;
-          animation: shine 10s linear infinite;
-  -webkit-background-clip: text;
-  background-image: linear-gradient(90deg, #c9c9c9 0%, #48484d 40%, #000000 100%);
-}
+
 /*Gold*/
 .message-2CShn3[data-user-id="765919439202811938"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
 .message-2CShn3[data-author-id="765919439202811938"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
